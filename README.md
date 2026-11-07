@@ -63,3 +63,7 @@ PROMPT.md                      the prompt
 - Kinetic Lights Symposium, Atelier Kinetic and the prices are made up. This is a design study, with no link to any event, venue or ticketing company. The QR code and barcode are decoration.
 
 Made by Samnang Aing. I share builds like this as I go on [X](https://x.com/SammmAing) and [Threads](https://www.threads.com/@samnang.aing).
+
+---
+
+Imported from [Sam1983Aing/ticket-tear](https://github.com/Sam1983Aing/ticket-tear) — original code and attribution preserved.
